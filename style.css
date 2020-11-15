@@ -1,0 +1,27 @@
+.heading{
+    font-size: 4rem;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.check{
+    margin: 13px;
+}
+
+#first{
+    font-size: 2rem;
+}
+
+#userinput{
+    font-size: 2rem;
+}
+
+#enter{
+    font-size: 2rem;
+}
+
+li{
+    font-size: 2rem;
+}
